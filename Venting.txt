@@ -3,3 +3,4 @@ This is just an edit intent.
 This is another edit intent
 LORENZO
 Editing on branch file.
+Editing on second branch file.
